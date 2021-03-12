@@ -1,0 +1,15 @@
+name: Greetings I'm 98762
+
+on: Bang to rights on a pull request. Won't justify it but was given a benevolent lesson without 
+my lapse being left to gather dust. ;)
+
+jobs: If anyone wants to prevent someone from hacking me the same old way (I printed the scheme out)
+  greeting: then favours all round.
+    runs-on: ubuntu-latest, although the first time using it...
+    steps: I used to run a website but really need to structure my approach
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Message that will be displayed on users first issue'
+        pr-message: 'Message that will be displayed on users first pull request'
+vent
